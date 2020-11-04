@@ -2,6 +2,6 @@
 #define __FUNCS_H__
 
 void foo();
-vodi myexperiment_function();
+void myexperiment_function();
 
 #endif
