@@ -10,3 +10,8 @@ void my_stable_function()
 {
 	printf("my stable funcion\n");
 }
+
+void myexperiment_function()
+{
+	printf("myexperiment...\n");
+}
